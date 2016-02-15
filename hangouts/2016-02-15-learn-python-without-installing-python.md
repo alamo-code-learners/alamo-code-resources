@@ -1,7 +1,7 @@
 #Alamo Code Hangout - Learning Python when you can't install Python
 Today I will show you how to start learning Python from the Zed Shaw book _Learn Python the Hard Way_ using the website PythonAnywhere.com  This will code Python in the cloud and is a good option if you are using someone else's computer or are learning at a library.
 ##Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zTn46q2D82g/0.jpg)](http://www.youtube.com/watch?v=zTn46q2D82g)
+[![Learning Python when you can't install Python Video](http://img.youtube.com/vi/zTn46q2D82g/0.jpg)](http://www.youtube.com/watch?v=zTn46q2D82g)
 ##Links
 * [Host, run, and code Python in the cloud: PythonAnywhere](https://www.pythonanywhere.com/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
